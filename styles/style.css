@@ -52,6 +52,11 @@ body {
     gap: 82px;
 }
 
+.imagem__destaque {
+    width: 100%;
+    max-width: 490px;
+}
+
 .apresentacao__conteudo {
     width: 50%;
     display: flex;
@@ -80,7 +85,7 @@ body {
     gap: 32px;
 }
 
-..apresentacao__links__subtitulo {
+.apresentacao__links__subtitulo {
     font-family: var(--fonte-primaria);
     font-weight: 400;
     font-size: 1.5rem;
